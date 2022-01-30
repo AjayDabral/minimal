@@ -1,123 +1,27 @@
+# Projects Portfolio
 ---
-layout: default
+
+## Automatic Fare Collection System (AFCs)
+
+Automatic Fare Collection System (AFC) is one of the flagship Programme of Ministry of Housing and Urban Affairs (MoHUA) to implement Digital payment through National Common Mobility Card (NCMC) i.e. Rupay Card in Transit systems throughout India.
+
+This Project involves the development of Electronic Terminal which is capable of performing Bank Transaction in online as well as offline mode, with all the security standards at par with global standards. This system is L1 (EMV- Euro Master Visa), L2 and L3 certified  and has sucessfully completed the PoC Trials at DMRC and BEST Mumbai.
+
+The two products developed under AFC System:
+(a) AFC Gates for Metro station at BMRCL.
+(b) Electronic Ticket Issuing Machine (ETIM) for BEST Mumbai.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AjayDabral/Automatic-Fare-Collection-System.git)
+
+<center><img src="images/fraud_detection.jpg"/></center>
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Hand Held Thermal Imager (HHTI)
 
-[Link to another page](./another-page.html).
+It is a device used by Indian Army for border surveillance
 
-There should be whitespace between paragraphs.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AjayDabral/Automatic-Fare-Collection-System.git)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<center><img src="images/fraud_detection.jpg"/></center>
